@@ -18,19 +18,19 @@ module.exports = {
   BRANCH: "main",
   WARN_COUNT: 3,
   PACKNAME: process.env.PACKNAME || "X-Asena",
-  WELCOME_MSG: process.env.WELCOME_MSG || "Hi @user Welcome to @gname",
-  GOODBYE_MSG: process.env.GOODBYE_MSG || "Hi @user It was Nice Seeing you",
-  AUTHOR: process.env.AUTHOR || "X-Electra",
+  WELCOME_MSG: process.env.WELCOME_MSG || "Hi @user അല്ല ഇത് ആര് അപ്പുറത്തെ വീട്ടിലെ മീനാക്ഷി കുട്ടി അല്ലയോ",
+  GOODBYE_MSG: process.env.GOODBYE_MSG || "Hi @user അനിയാടെ സത്യം പറയാലോ നീ ഗ്രൂപ്പിന് പോയപ്പോഴാ ഗ്രൂപ്പ് ഒന്ന് ആക്റ്റീവ് ആയത്",
+  AUTHOR: process.env.AUTHOR || "𝐗𝟒𝄞⃝ ❤️𝐍𝐀𝐍𝐁𝐀𝐍𝄞⃝  ♛",
   SUDO:
-    process.env.SUDO || "918113921898,919598157259,918590508376,919383400679",
+    process.env.SUDO || "917356892808,918943076174",
   HEROKU_APP_NAME: process.env.HEROKU_APP_NAME || "",
   HEROKU_API_KEY: process.env.HEROKU_API_KEY || "",
-  OWNER_NAME: process.env.OWNER_NAME || "Neeraj-X0",
+  OWNER_NAME: process.env.OWNER_NAME || "𝐗𝟒𝄞⃝ ❤️𝐍𝐀𝐍𝐁𝐀𝐍𝄞⃝  ♛",
   HEROKU: toBool(process.env.HEROKU) || false,
-  BOT_NAME: process.env.BOT_NAME || "X-Asena",
+  BOT_NAME: process.env.BOT_NAME || "𝐗𝟒𝄞⃝ ❤️𝐍𝐀𝐍𝐁𝐀𝐍𝄞⃝  ♛", ആയത്
   AUTO_READ: toBool(process.env.AUTO_READ) || false,
   AUTO_STATUS_READ: toBool(process.env.AUTO_STATUS_READ) || false,
-  PROCESSNAME: process.env.PROCESSNAME || "x-asena",
+  PROCESSNAME: process.env.PROCESSNAME || "𝐗𝟒𝄞⃝ ❤️𝐍𝐀𝐍𝐁𝐀𝐍𝄞⃝  ♛",
   WORK_TYPE: process.env.WORK_TYPE || "private",
   SESSION_URL: process.env.SESSION_URL || "",
   DELETED_LOG: toBool(process.env.DELETED_LOG) || false,
